@@ -16,7 +16,7 @@
                     {item:'名称',value:'唐俊'},
                     {item:'学校',value:'顺德职业技术学院'},
                     {item:'专业',value:'软件技术'},
-                    {item:'权限',value:'超级管理员'},
+                    {item:'权限',value:'管理员'},
                 ],
             }
         }

@@ -13,8 +13,8 @@
         data(){
             return{
                 items:[
-                    {item:'名称',value:'袁先生'},
-                    {item:'学校',value:'广东交通职业技术学院'},
+                    {item:'名称',value:'唐俊'},
+                    {item:'学校',value:'顺德职业技术学院'},
                     {item:'专业',value:'软件技术'},
                     {item:'权限',value:'超级管理员'},
                 ],
